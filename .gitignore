@@ -3,3 +3,4 @@ tests/
 venv/
 tests.py
 api/utils/__pycache__/
+api/__pycache__/
